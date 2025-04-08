@@ -16,7 +16,7 @@ This project simulates and analyzes FX options trading strategies using advanced
 All visualizations (e.g., Greeks surface plots, RL vs Delta Hedging) are saved automatically in the output folder.
 
 ##  RL Details
-- Framework: PyTorch
+- Framework: Tensorflow
 - Training: CPU (Will take some time depending on the compute. Took 16 hours to train on i7 12th gen)
 - Agent: Deep Q-Network (DQN)
 - Episodes: 1000
